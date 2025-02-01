@@ -18,5 +18,4 @@ default:
 #    - 'litmusimage/debian:10' # OS flavour not yet supported
 #    - 'litmusimage/debian:11' # OS flavour not yet supported
 #    - 'litmusimage/oraclelinux:6' # package repository unreliable
-#    - 'litmusimage/oraclelinux:7' # package repository unreliable
 
